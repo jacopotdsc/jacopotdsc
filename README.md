@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 
 # 🤖 Hi, I'm Jacopo!
 
-🌟 **Aspiring Roboticist and Engineer**  
+🌟 **Aspiring to be a Robotic Engineer**  
 Welcome to my GitHub profile! I'm passionate guy with love for everything which can be moved in physical world :)
 
 ---
 
-## 🚀 **About Me**  
+### 🚀 **About Me**  
 - 🎓 **Education:** studying Artificial Intellinte and Robotics' master degree  
 - 🔍 **Focus Areas:** Robotics, Autonomous Systems, SLAM, Artificial Intelligence.     
 - 🛠️ **Goals:** Provide a positive impact on people with robotics.
 
-## ✨ **What I'm Looking For**  
+### ✨ **What I'm Looking For**  
 My aspiration is to work on robotics field, in particular I am curios about 
 - Space exploration robotics 🚀   
 - Autonomous vehicles 🚗
