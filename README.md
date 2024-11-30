@@ -31,3 +31,4 @@ My aspiration is to work on robotics field, in particular I am curios about
 - SLAM (Simultaneous Localization and Mapping) for autonomous navigation 🗺️
 - Advanced localization techniques for mobile robots 📍
 - Control systems for precise robotic motion 🔧
+- Reinforcement learning to enhance robot decision-making 🧠
